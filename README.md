@@ -37,3 +37,9 @@ The project aims to identify macroeconomic trends and explore relationships betw
 Yasmeen Ahmed
 
 Economic Researcher | Economic Analysis | Data Analysis
+
+Full Economic Analysis Report
+
+For a detailed discussion of Egypt's macroeconomic performance, key findings, and economic trends, read the full report:
+
+Read the Economic Analysis Report
